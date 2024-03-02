@@ -1,9 +1,0 @@
-cara mengirim file ke github dari vscode
-1. download git dari https://git-scm.com/downloads
-2. instal git
-3. configure email dan username dengan cara
-git config --global user.email "smkrevit@gmail.com"
-git config --global user.name "smkrevit"
-4. buat repository di github
-5. tambahkan link repository ke vscode menggunakan remote pilih add
-6. lakukan commit untuk push ke github
